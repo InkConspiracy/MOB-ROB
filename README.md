@@ -7,3 +7,4 @@ to start the simulator.  Run a simple, open-loop command sequence with:
 `rosrun my_stdr_ctrl my_stdr_open_loop_commander`
 
     
+# MOB-ROB
